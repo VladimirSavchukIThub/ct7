@@ -1,0 +1,8 @@
+A:\Новая папка\ct7\ct7\bin\Debug\ct7.exe.config
+A:\Новая папка\ct7\ct7\bin\Debug\ct7.exe
+A:\Новая папка\ct7\ct7\bin\Debug\ct7.pdb
+A:\Новая папка\ct7\ct7\obj\Debug\ct7.csproj.AssemblyReference.cache
+A:\Новая папка\ct7\ct7\obj\Debug\ct7.csproj.SuggestedBindingRedirects.cache
+A:\Новая папка\ct7\ct7\obj\Debug\ct7.csproj.CoreCompileInputs.cache
+A:\Новая папка\ct7\ct7\obj\Debug\ct7.exe
+A:\Новая папка\ct7\ct7\obj\Debug\ct7.pdb
